@@ -52,7 +52,6 @@ if select == "Home":
         st.write("- **Tourism**")
     with col2:
         st.header(":desktop_computer: Technologies Used :")
-        st.write("- **Github Cloning**")
         st.write("- **Python**")
         st.write("- **Pandas**")
         st.write("- **streamlit**")
