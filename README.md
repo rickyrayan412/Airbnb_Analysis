@@ -4,8 +4,6 @@
 - Pandas
 - streamlit
 - plotly
-- Matplotlib
-- Seaborn
 - MongoDB
 ## About this Project
 - Data Collection
